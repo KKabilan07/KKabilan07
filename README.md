@@ -1,7 +1,6 @@
 <h1 align="center">Hi. I'm Kabilan K</h1>
 <h3 align="center">I’m second year AI student in Amrita Vishwa Vidyapeetham.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kabilank07&label=Profile%20views&color=0e75b6&style=flat" alt="kabilank07" /> </p>
 
 - 📫 How to reach me **kkabilan2024@gmail.com**
 
