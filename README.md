@@ -33,6 +33,7 @@
         <img src="https://skillicons.dev/icons?i=html" title="HTML"/>
         <img src="https://skillicons.dev/icons?i=css" title="CSS"/>
         <img src="https://skillicons.dev/icons?i=js" title="JavaScript"/>
+        <img src="https://skillicons.dev/icons?i=react" title="React"/>
     </div>
     <h3>Tools</h3>
     <div>
