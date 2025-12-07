@@ -42,7 +42,6 @@
         <img src="https://skillicons.dev/icons?i=github" title="GitHub"/>
         <img src="https://skillicons.dev/icons?i=linux" title="Linux"/>
         <img src="https://skillicons.dev/icons?i=postman" title="Postman"/>
-        <img src="https://skillicons.dev/icons?i=eclipse" title="Eclipse"/>
         <img src="https://skillicons.dev/icons?i=vscode" title="Visual Studio Code"/>
         <img src="https://skillicons.dev/icons?i=sklearn" title="Sklearn"/>
         <img src="https://skillicons.dev/icons?i=tensorflow" title="Tensorflow"/>
