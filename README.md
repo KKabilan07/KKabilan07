@@ -34,7 +34,9 @@
       B.Tech CSE (AI) at <b>Amrita Vishwa Vidyapeetham</b>
     </td>
     <td width="40%" align="center">
-      <img src="assets/quote-card-teal.svg" width="100%" alt="build things that matter" />
+      <!-- <img src="assets/quote-card-teal.svg" width="100%" alt="build things that matter" />
+      -->
+      <img src="quote-card-teal.svg" width="100%" alt="build things that matter" />
     </td>
   </tr>
 </table>
