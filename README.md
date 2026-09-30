@@ -62,5 +62,3 @@
 </p>
 
 ---
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:14110a,60:854d0e,100:facc15&height=60&section=footer" width="100%" alt="footer" />
